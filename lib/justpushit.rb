@@ -1,1 +1,1 @@
-
+puts ARGV.inspect
