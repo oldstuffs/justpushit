@@ -18,7 +18,7 @@ Enter a commit message
 your commit message and enter.
 ```
 
-It will run
+Both of them will run
 ```
 git commit -am your_commit_message
 git push
