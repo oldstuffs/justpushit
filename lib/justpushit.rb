@@ -5,5 +5,5 @@ if inspect.empty?
 else
   commit_message = inspect
 end
-system("git commit -am \"" + commit_message + "\"")
-system("git push")
+system('git commit -am "' + commit_message + '"')
+system('git push')
