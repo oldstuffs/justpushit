@@ -1,5 +1,5 @@
 # justpushit
-Just push it is a project that helps you to push your git project just one line of command.
+Just push it is a project that helps you to push your git project with just one line of command.
 
 ## Installation
 ```
